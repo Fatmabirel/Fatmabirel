@@ -1,5 +1,5 @@
 <h1 align='center'><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
 <p align='center'>
 <a href="https://www.linkedin.com/in/fatma-birel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:ahmetcetinkaya7@outlook.com"><img src="https://img.shields.io/badge/EMail-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
