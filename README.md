@@ -46,5 +46,5 @@
 
 <br>
 
-<h3>My Repository History/h3>
+<h3>My Repository History</h3>
 ![Snake animation](https://github.com/Fatmabirel/Fatmabirel/blob/output/github-contribution-grid-snake.svg)
