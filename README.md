@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hello 👋, I'm Fatma Birel</h1>
 <h3 align="center">A passionate Full Stack Developer from Türkiye</h3>
 
@@ -46,5 +47,6 @@
 
 <br>
 
-<h3>My Repository History</h3>
+<h2>My Repositories</h2>
+
 ![Snake animation](https://github.com/Fatmabirel/Fatmabirel/blob/output/github-contribution-grid-snake.svg)
