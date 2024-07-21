@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **.NET, Angular and React**
 
-- 💬 Ask me about **PHP, React and .NET**
+- 💬 Ask me about **Angular, React and .NET**
 
 - 📫 How to reach me **fatmabireltr@gmail.com**
 
