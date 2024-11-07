@@ -5,14 +5,15 @@
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/fatma-birel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@fatmabirel"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:fatmabireltr@gmail.com"><img src="https://img.shields.io/badge/EMail-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Fatmabirel"><img src="https://api.visitorbadge.io/api/VisitorHit?user=Fatmabirel&countColor=%237B1E7A" /></a>
 </p>
 </p>
 
-- 🌱 I’m currently learning **.NET, Angular and React**
+- 🌱 I’m currently learning **C#, .NET and Angular**
 
-- 💬 Ask me about **Angular, React and .NET**
+- 💬 Ask me about ***C# ,Angular and .NET**
 
 - 📫 How to reach me **fatmabireltr@gmail.com**
 
@@ -30,16 +31,10 @@
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" /> 
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />        
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img alt="MsSQL" src="https://img.shields.io/badge/MsSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
-  <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />  
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 <br>
 <p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatmabirel&show_icons=true&locale=en&layout=compact" alt="fatmabirel" /></p>
