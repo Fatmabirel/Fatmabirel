@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **C#, .NET and Angular**
 
-- 💬 Ask me about ***C# ,Angular and .NET**
+- 💬 Ask me about **C# ,Angular and .NET**
 
 - 📫 How to reach me **fatmabireltr@gmail.com**
 
